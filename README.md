@@ -31,7 +31,7 @@ To compile the LaTeX document and run the Python code, ensure the following depe
 Usage
 Compiling the LaTeX Document
 
-Navigate to the repository directory:cd /path/to/LFT-position-paper
+Navigate to the repository directory:cd /path/to/LFT-position-paper/lft_verification.ipynb
 
 
 Compile the LaTeX file using latexmk:latexmk -pdf logic_field_theory.tex
