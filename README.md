@@ -58,14 +58,13 @@ The notebook outputs confirm the lattice properties and Born rule consistency, a
 
 ## If you use this work, please cite:
 
-{ @article{longmire2025,
+## Citation
 
-  author = {Longmire, J. D.},
-  title = {Logic Field Theory: A Foundational Program},  
-  journal = {arXiv preprint},  
-  year = {2025},  
-  url = {https://github.com/jdlongmire/LFT-position-paper}
-}
+If you use this repository in your research, please cite:
+
+> J. D. Longmire, *Logic Field Theory: A Foundational Program*, Zenodo, 
+> DOI: 10.5281/zenodo.15856801
+
 
 ## Contact
 
