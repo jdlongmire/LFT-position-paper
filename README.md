@@ -12,6 +12,13 @@ This repository contains the LaTeX source, compiled PDF, and Python verification
 - `lft_verification.ipynb`: Jupyter notebook with Python code for lattice non-distributivity, orthomodularity, and Born rule verification.
 - `README.md`: This file.
 
+- ---
+
+### Acknowledgements
+
+The author gratefully acknowledges the assistance of large-language models in drafting and refining this repository’s content, including OpenAI ChatGPT, Anthropic Claude, Google Gemini, and xAI Grok.
+
+
 ## Installation
 
 To compile the LaTeX document and run the Python code, ensure the following dependencies are installed:
