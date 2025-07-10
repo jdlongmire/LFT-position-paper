@@ -8,7 +8,6 @@ This repository contains the LaTeX source, compiled PDF, and Python verification
 
 ## Files
 
-- `logic_field_theory.tex`: LaTeX source for the position paper.
 - `Logic_Field_Theory_Position_Paper_v7.0.pdf`: Compiled PDF of the paper.
 - `lft_verification.ipynb`: Jupyter notebook with Python code for lattice non-distributivity, orthomodularity, and Born rule verification.
 - `README.md`: This file.
