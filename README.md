@@ -14,14 +14,19 @@ This repository contains the LaTeX source, compiled PDF, and Python verification
 
 - ---
 
+---
+
 ## Acknowledgements
 
-This work benefited from AI‐assisted drafting and refinement.  In particular:
+This work would not have been possible without extensive AI‐assisted drafting, verification, and structuring.  As a pure theorist and Senior Systems Architect, I relied on the combined strengths of multiple large‐language models to:
 
-- **ChatGPT** (OpenAI), assisted via https://chatgpt.com/share/686fe9c3-eb50-8005-8459-ae1c7af41f66  
-- **Grok** (xAI), assisted via https://grok.com/share/bGVnYWN5_bab69024-98a2-4726-906e-cd28bcd82fae  
-- **Claude** (Anthropic)  
-- **Gemini** (Google)
+- **Draft and refine the manuscript structure** using **ChatGPT** (OpenAI) – see https://chatgpt.com/share/686fe9c3-eb50-8005-8459-ae1c7af41f66  
+- **Verify code snippets and proofs** with **Grok** (xAI) – see https://grok.com/share/bGVnYWN5_bab69024-98a2-4726-906e-cd28bcd82fae  
+- **Polish technical language and citations** via **Claude** (Anthropic)  
+- **Diagram and layout suggestions** from **Gemini** (Google)
+
+No single human could have integrated all of these pieces in the time frame—deep thanks to these AI collaborators for making it happen.
+
 
 
 
