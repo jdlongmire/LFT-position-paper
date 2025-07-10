@@ -14,9 +14,15 @@ This repository contains the LaTeX source, compiled PDF, and Python verification
 
 - ---
 
-### Acknowledgements
+## Acknowledgements
 
-The author gratefully acknowledges the assistance of large-language models in drafting and refining this repository’s content, including OpenAI ChatGPT, Anthropic Claude, Google Gemini, and xAI Grok.
+This work benefited from AI‐assisted drafting and refinement.  In particular:
+
+- **ChatGPT** (OpenAI), assisted via https://chatgpt.com/share/686fe9c3-eb50-8005-8459-ae1c7af41f66  
+- **Grok** (xAI), assisted via https://grok.com/share/bGVnYWN5_bab69024-98a2-4726-906e-cd28bcd82fae  
+- **Claude** (Anthropic)  
+- **Gemini** (Google)
+
 
 
 ## Installation
